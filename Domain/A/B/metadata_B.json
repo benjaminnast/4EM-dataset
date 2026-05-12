@@ -1,0 +1,19 @@
+{
+  "domainName": "A",
+  "modelGroupname": [
+    {
+      "name": "Modellname",
+      "description": "Testbeschreibung",
+      "modelTypes": "Modelltypen",
+      "modelState": "Status",
+      "author": "Autorname",
+      "authortype": "Autortyp",
+      "language": "de",
+      "validatedModel": false,
+      "decompositions": false,
+      "decomposed_by": null,
+      "decompositionPair": null,
+      "additionalInformation": "none"
+    }
+  ]
+}
