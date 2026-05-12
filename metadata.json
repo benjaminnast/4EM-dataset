@@ -11,6 +11,10 @@
     {
       "domainName": "test_front",
       "modelGroupname": "test_front"
+    },
+    {
+      "domainName": "A",
+      "modelGroupname": "B"
     }
   ]
 }
