@@ -15,6 +15,10 @@
     {
       "domainName": "A",
       "modelGroupname": "B"
+    },
+    {
+      "domainName": "w",
+      "modelGroupname": "s"
     }
   ]
 }
